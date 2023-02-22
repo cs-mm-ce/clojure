@@ -250,3 +250,5 @@ under the Apache License:
       of your accepting any such warranty or additional liability.
 
    END OF TERMS AND CONDITIONS
+   
+   [![CodeScene Code Health](https://staging.codescene.io/projects/39125/status-badges/code-health)](https://staging.codescene.io/projects/39125)
