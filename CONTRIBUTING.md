@@ -41,6 +41,5 @@ A list of all releases can be found here:
 
 https://clojure.org/releases/downloads_older
 
-[![CodeScene Code Health](https://staging.codescene.io/projects/39125/status-badges/code-health)](https://staging.codescene.io/projects/39125)
 
-[![CodeScene System Mastery](https://staging.codescene.io/projects/39125/status-badges/system-mastery)](https://staging.codescene.io/projects/39125)
+[![CodeScene Code Health](https://staging.codescene.io/projects/39125/status-badges/code-health)](https://staging.codescene.io/projects/39125)
